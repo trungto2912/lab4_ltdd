@@ -32,7 +32,7 @@
             <Button
                 android:id="@+id/button10"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
                 android:onClick="butClear"
@@ -43,7 +43,7 @@
             <Button
                 android:id="@+id/butPlusMins"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
@@ -55,7 +55,7 @@
             <Button
                 android:id="@+id/button8"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
@@ -67,7 +67,7 @@
             <Button
                 android:id="@+id/butDiv"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/Orenge"
@@ -84,7 +84,7 @@
             <Button
                 android:id="@+id/but7"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
                 android:onClick="butNumberEvent"
@@ -95,7 +95,7 @@
             <Button
                 android:id="@+id/but8"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
@@ -107,7 +107,7 @@
             <Button
                 android:id="@+id/but9"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
@@ -119,7 +119,7 @@
             <Button
                 android:id="@+id/butMul"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/Orenge"
@@ -136,7 +136,7 @@
             <Button
                 android:id="@+id/but4"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
                 android:onClick="butNumberEvent"
@@ -147,7 +147,7 @@
             <Button
                 android:id="@+id/but5"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
@@ -159,7 +159,7 @@
             <Button
                 android:id="@+id/but6"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
@@ -171,7 +171,7 @@
             <Button
                 android:id="@+id/butSub"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/Orenge"
@@ -188,7 +188,7 @@
             <Button
                 android:id="@+id/but1"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
                 android:onClick="butNumberEvent"
@@ -199,7 +199,7 @@
             <Button
                 android:id="@+id/but2"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
@@ -211,7 +211,7 @@
             <Button
                 android:id="@+id/but3"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/whiteBut"
@@ -223,7 +223,7 @@
             <Button
                 android:id="@+id/butSum"
                 android:layout_width="35pt"
-                android:layout_height="50pt"
+                android:layout_height="40pt"
                 android:layout_marginLeft="3pt"
                 android:layout_weight="1"
                 android:backgroundTint="@color/Orenge"
@@ -242,7 +242,7 @@
         <Button
             android:id="@+id/but0"
             android:layout_width="73pt"
-            android:layout_height="50pt"
+            android:layout_height="40pt"
             android:layout_weight="2"
             android:backgroundTint="@color/whiteBut"
             android:onClick="butNumberEvent"
@@ -253,7 +253,7 @@
         <Button
             android:id="@+id/butDot"
             android:layout_width="35pt"
-            android:layout_height="50pt"
+            android:layout_height="40pt"
             android:layout_marginLeft="3pt"
             android:layout_weight="1"
             android:backgroundTint="@color/whiteBut"
@@ -265,7 +265,7 @@
         <Button
             android:id="@+id/button4"
             android:layout_width="35pt"
-            android:layout_height="50pt"
+            android:layout_height="40pt"
             android:layout_marginLeft="3pt"
             android:layout_weight="1"
             android:backgroundTint="@color/Orenge"
